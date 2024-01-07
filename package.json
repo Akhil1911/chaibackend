@@ -1,0 +1,25 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "description": "Basic app ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "wanna",
+    "wau",
+    "wau",
+    "wanna",
+    "wau",
+    "wau",
+    "wanna",
+    "wau"
+  ],
+  "author": "Akhil The Great",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
